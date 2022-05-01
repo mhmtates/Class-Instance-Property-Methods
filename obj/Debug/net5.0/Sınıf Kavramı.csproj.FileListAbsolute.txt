@@ -1,0 +1,16 @@
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.exe
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.deps.json
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.runtimeconfig.dev.json
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.dll
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\ref\Sınıf Kavramı.dll
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.dll
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\ref\Sınıf Kavramı.dll
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.genruntimeconfig.cache
